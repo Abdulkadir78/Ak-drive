@@ -8,6 +8,11 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+firebase
+node_modules
+.expo/
+.env
+.eslintrc.json
 
 # macOS
 .DS_Store
